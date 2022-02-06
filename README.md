@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @feelnofear
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-feelnofear/feelnofear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in html, sass, js, php, python
+- 🌱 I’m currently learning VUE
+- 💞️ I’m looking to collaborate on changing the music industry
+- 📫 How to reach me milanblack.de/contact
