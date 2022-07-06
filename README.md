@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feelnofear
-- 👀 I’m interested in html, sass, js, php, python
-- 🌱 I’m currently learning VUE
+- 👀 I’m interested in html, sass, js, vue, nuxt, python
+- 🌱 I’m currently learning VUE 3
 - 💞️ I’m looking to collaborate on changing the music industry
 - 📫 How to reach me milanblack.de/contact
