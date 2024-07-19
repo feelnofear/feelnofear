@@ -1,3 +1,11 @@
+<p align="center"><img src="./img/round-profile.png" width="100"/></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=feelnofear&style=flat-square&color=blue" alt=""/>
+</p>
+
+
+
+
 - 👋 Hi, I’m @feelnofear
 - 👀 I’m interested in web 3, blockchain, sass, js, vue, nuxt, python
 - 🌱 I’m currently working on web 8
