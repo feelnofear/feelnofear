@@ -2,11 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=feelnofear&style=flat-square&color=blue" alt=""/>
 </p>
 
-# 👽 Frontend
+# 👽
 
-Welcome, curious soul.
-
-Unravel the web’s secrets with me. 🌌
+Welcome, curious soul 🌌
 
 ---
 
