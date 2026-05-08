@@ -4,7 +4,7 @@
 
 # 👽
 
-Welcome, curious soul 🌌
+Welcome, curious soul 
 
 ---
 
